@@ -1,0 +1,35 @@
+{
+    "movieID": "string",
+    "Name":"string",
+    "releaseDate": "Date",
+    "teaserURL": "string",
+    "trailerrURL": "string",
+    "posterURL": "string", 
+    "cast":{
+        "hero":"string",
+        "heroIn":"string",
+        "director":"string",
+        "producer":"string",
+        "others":"array or string"
+    },
+    "images":{
+     },
+    "videos": {
+
+    }
+}
+
+// reviews
+// {
+//     movieName: string,
+//     review : string,
+//     story: string,
+//     positives: string,
+//     negatives: string,
+//     technicalReview: string,
+//     Verdict: string
+//     }
+
+
+
+}
